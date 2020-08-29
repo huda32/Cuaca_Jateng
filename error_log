@@ -1,0 +1,40 @@
+[02-Mar-2019 10:39:30 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'contains' (T_STRING) in /home/cuacaj98/public_html/prakiraan/application/views/home/cuaca_esk.php on line 34
+[02-Mar-2019 10:40:14 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'contains' (T_STRING) in /home/cuacaj98/public_html/prakiraan/application/views/home/cuaca_esk.php on line 34
+[05-Mar-2019 16:47:35 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::in() in /home/cuacaj98/public_html/prakiraan/application/models/M_api.php on line 27
+[06-Mar-2019 22:19:50 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$nama' (T_VARIABLE) in /home/cuacaj98/public_html/prakiraan/application/models/M_api.php on line 60
+[06-Mar-2019 22:25:50 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'nm_kab' (T_STRING) in /home/cuacaj98/public_html/prakiraan/application/models/M_api.php on line 61
+[21-Mar-2019 07:53:22 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/cuacaj98/public_html/prakiraan/application/views/admin/file.php on line 15
+[21-Mar-2019 07:53:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/cuacaj98/public_html/prakiraan/application/views/admin/file.php on line 15
+[21-Mar-2019 07:53:45 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/cuacaj98/public_html/prakiraan/application/views/admin/file.php on line 15
+[21-Mar-2019 07:53:56 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/cuacaj98/public_html/prakiraan/application/views/admin/file.php on line 15
+[21-Mar-2019 07:54:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/cuacaj98/public_html/prakiraan/application/views/admin/file.php on line 15
+[21-Mar-2019 07:54:20 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/cuacaj98/public_html/prakiraan/application/views/admin/file.php on line 15
+[21-Mar-2019 07:54:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/cuacaj98/public_html/prakiraan/application/views/admin/file.php on line 15
+[21-Mar-2019 07:56:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/cuacaj98/public_html/prakiraan/application/views/admin/file.php on line 15
+[21-Mar-2019 07:59:16 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/cuacaj98/public_html/prakiraan/application/views/admin/file.php on line 15
+[21-Mar-2019 08:25:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/cuacaj98/public_html/prakiraan/application/views/admin/file.php on line 15
+[21-Mar-2019 08:25:41 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/cuacaj98/public_html/prakiraan/application/views/admin/file.php on line 15
+[21-Mar-2019 08:26:05 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/cuacaj98/public_html/prakiraan/application/views/admin/file.php on line 15
+[21-Mar-2019 08:27:00 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/cuacaj98/public_html/prakiraan/application/views/admin/file.php on line 15
+[21-Mar-2019 08:28:43 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/cuacaj98/public_html/prakiraan/application/views/admin/file.php on line 15
+[21-Mar-2019 08:28:46 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/cuacaj98/public_html/prakiraan/application/views/admin/file.php on line 15
+[21-Mar-2019 08:31:00 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/cuacaj98/public_html/prakiraan/application/views/admin/file.php on line 15
+[21-Mar-2019 08:31:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/cuacaj98/public_html/prakiraan/application/views/admin/file.php on line 15
+[21-Mar-2019 08:31:23 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/cuacaj98/public_html/prakiraan/application/views/admin/file.php on line 15
+[21-Mar-2019 08:43:47 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/cuacaj98/public_html/prakiraan/application/views/admin/file.php on line 15
+[21-Mar-2019 08:44:01 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/cuacaj98/public_html/prakiraan/application/views/admin/file.php on line 15
+[21-Mar-2019 09:32:55 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/cuacaj98/public_html/prakiraan/application/views/admin/file.php on line 15
+[21-Mar-2019 09:37:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/cuacaj98/public_html/prakiraan/application/views/admin/file.php on line 15
+[09-Apr-2019 08:27:40 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/cuacaj98/public_html/prakiraan/system/libraries/Session/drivers/Session_files_driver.php on line 217
+[09-Apr-2019 14:30:14 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/cuacaj98/public_html/prakiraan/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[29-May-2019 09:00:34 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/cuacaj98/public_html/prakiraan/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[29-May-2019 09:02:27 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/cuacaj98/public_html/prakiraan/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[29-May-2019 09:04:05 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/cuacaj98/public_html/prakiraan/system/libraries/Session/drivers/Session_files_driver.php on line 210
+[29-May-2019 09:05:07 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/cuacaj98/public_html/prakiraan/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[29-May-2019 09:32:14 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/cuacaj98/public_html/prakiraan/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[29-May-2019 09:33:27 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/cuacaj98/public_html/prakiraan/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[29-May-2019 09:52:36 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/cuacaj98/public_html/prakiraan/system/libraries/Session/drivers/Session_files_driver.php on line 210
+[30-May-2019 10:00:50 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/cuacaj98/public_html/prakiraan/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[30-May-2019 10:02:09 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/cuacaj98/public_html/prakiraan/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[30-May-2019 10:03:01 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/cuacaj98/public_html/prakiraan/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[31-May-2019 09:18:29 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/cuacaj98/public_html/prakiraan/system/libraries/Session/drivers/Session_files_driver.php on line 212
